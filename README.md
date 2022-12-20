@@ -70,3 +70,6 @@ The feature importance values show that some factors are more important for pred
 
 Overall, the performance statistics indicate that the random forest model is performing well in predicting player salaries based on the factors in the dataset. The model has a relatively high level of accuracy and a good fit for the data, and the feature importance values indicate which factors are most important for predicting player salaries.
 
+User Interface: 
+
+For the user interface search function, the second part of the code uses tkinter to display a message box that extracts the information from the new excel file created by part one of our prediction code. It has an input search function that allows the user to unlimitedly search a name of an NHL player to output their actual salary, our prediction value and the difference between the two values to show if they are underpaid or overpaid. 
